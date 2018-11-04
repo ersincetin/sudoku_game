@@ -1,0 +1,4 @@
+﻿  Sudoku_Olusturma.cpp
+c:\users\er\source\repos\sudoku_olusturma\sudoku_olusturma\sudoku_olusturma.cpp(102): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\er\source\repos\sudoku_olusturma\sudoku_olusturma\sudoku_olusturma.cpp(143): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sudoku_Olusturma.vcxproj -> C:\Users\Er\source\repos\Sudoku_Olusturma\Debug\Sudoku_Olusturma.exe
